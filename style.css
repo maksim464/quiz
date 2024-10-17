@@ -38,6 +38,7 @@ body{
 }
 .conteiner_h3{
     margin-bottom: 10px;
+    color: purple;
 }
 .main{
     display: none;
@@ -71,8 +72,13 @@ body{
     border-radius: 5px;
     cursor: pointer;
     background-color: #7B0AD2;
+
 }
 
 strt-btn:hover{
     background: #eaeaea;
 }
+
+h1{ color:purple;
+}
+p{color:purple;}
