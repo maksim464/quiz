@@ -4,6 +4,8 @@
 body{
     font-family:sans-serif ;
     text-align: center;
+    background: #DBDB17;
+    
 }
 
 .container{
@@ -68,6 +70,7 @@ body{
     border: 1px solid black;
     border-radius: 5px;
     cursor: pointer;
+    background-color: #7B0AD2;
 }
 
 strt-btn:hover{
